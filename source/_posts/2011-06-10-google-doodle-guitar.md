@@ -1,12 +1,14 @@
 ---
-title: 满足我玩心的doodle
-author: serenenight
 layout: post
-permalink: /2011/06/10/google-doodle-guitar/
+title: "满足我玩心的doodle"
+date: 2011-06-10
+comments: true
 categories:
   - Google
 ---
-为了纪念电吉他之父莱斯·保罗（Les Paul，1915年6月9日－2009年8月13日）诞辰96周年，6月9日的Google Doodle被设计成了一个电吉他。  
+为了纪念电吉他之父莱斯·保罗（Les Paul，1915年6月9日－2009年8月13日）诞辰96周年，6月9日的Google Doodle被设计成了一个电吉他。 
+
+<!-- more --> 
   
 **最给力的曲谱！**  
 爱情买卖：  

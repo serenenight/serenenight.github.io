@@ -1,8 +1,8 @@
 ---
-title: 回顾一年
-author: serenenight
 layout: post
-permalink: /2011/07/14/review-my-last-year/
+title: "回顾一年"
+date: 2011-07-14
+comments: true
 categories:
   - My Life
 ---
@@ -12,12 +12,14 @@ categories:
 
 3.当你越长越大时才真的发现留给你的时间不多了，大学的一年对于我思想的影响比中学6年都要大的多，剩下的3年我要更迅速的提升。
 
-4.最近认识了许多的大牛，也更爱开始看别人的blog了。最近发现这个圈子快要被我挖掘出来了。记得在How to become a hacker里面Eric Steven Raymond 讲：  
+4.最近认识了许多的大牛，也更爱开始看别人的blog了。记得在How to become a hacker里面Eric Steven Raymond 讲：  
 look  to  the  master,  
 follow the  master,  
 walk  with the  master,  
 see  through  the  master,  
 become  the master.
+
+<!-- more -->
 
 现在的自己还很弱，但我知道自己会成功的。俞敏洪曾经在他大学毕业是对自己的同学说：“大家都获得了优异的成绩，我是我们班的落后同学。但是我想让同学们放心，我决不放弃。你们五年干成的事情我干十年，你们十年干成的我干二十年，你们二十年干成的我干四十年”。我对他们说：“如果实在不行，我会保持心情愉快、身体健康，到八十岁以后把你们送走了我再走。”
 

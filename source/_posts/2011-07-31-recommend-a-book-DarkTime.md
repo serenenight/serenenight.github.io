@@ -1,8 +1,8 @@
 ---
-title: 推荐读书《暗时间》
-author: serenenight
 layout: post
-permalink: /2011/07/31/recommend-a-book-DarkTime/
+title: "推荐读书《暗时间》"
+date: 2011-07-31
+comments: true
 categories:
   - My Life
 ---
@@ -14,6 +14,8 @@ categories:
 这本书便是从刘未鹏8年的博客文章中精选出来的，主要关于心智模式、学习方法和时间利用，《暗时间》的书名便来自于此。
 
 每个人的生命就像沙漏，里面装的沙子总量大致相当，只是颈部粗细不同。颈部较细的沙漏能够抓住每一粒时间之沙，也就拥有了更长的生命。——刘未鹏
+
+<!-- more -->
 
 [<img class="alignnone size-medium wp-image-181" title="暗时间" src="http://wordpress.lufangming.com/wp-content/uploads/2011/07/s6586365-214x300.jpg" alt="" width="214" height="300" />][1]
 

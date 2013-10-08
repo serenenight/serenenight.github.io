@@ -1,14 +1,16 @@
 ---
-title: 想说的太多
-author: serenenight
 layout: post
-permalink: /2011/06/12/too-much-to-say/
+title: "想说的太多"
+date: 2011-06-12
+comments: true
 categories:
   - My Life
 ---
 我想，最好的感情是两个人都用力的活，一起体验人生的种种趣味，也能包容与鼓励对方。当对方为你打开新的世界，你就没有因为喜欢一个人而拒绝了整个世界。
 
 关于感情的事写完一遍再delete，所有的文字都过了一遍我的心。因为，想说的太多，我却不能碎碎念。
+
+<!-- more -->
 
 1.刚刚喜欢上了Lenka的歌
 

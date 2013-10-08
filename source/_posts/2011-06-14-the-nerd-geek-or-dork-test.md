@@ -1,8 +1,8 @@
 ---
-title: The Nerd? Geek? or Dork? Test!
-author: serenenight
 layout: post
-permalink: /2011/06/14/the-nerd-geek-or-dork-test/
+title: "The Nerd? Geek? or Dork? Test!"
+date: 2011-06-14
+comments: true
 categories:
   - My Life
 ---
@@ -12,7 +12,7 @@ This is my result
 
 &nbsp;
 
-go to*** [there][2] ***finish your test~~~remember to tell me your result~~~lol
+go to*** [there][2] ***finish your test, remember to tell me your result~~~lol
 
 做完测试才发现这是一个交友网站，你回答的问题越多，越能找到与你相匹配的人，很有意思~~~
 
