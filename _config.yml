@@ -68,8 +68,8 @@ github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
-# sns Comments
-sns_share: ture
-
 # Google Analytics
 google_analytics_tracking_id:
+
+# sns Comments
+sns_share: ture
