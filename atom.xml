@@ -4,7 +4,7 @@
   <title><![CDATA[SereneNight's Blog]]></title>
   <link href="http://serenenight.github.io/atom.xml" rel="self"/>
   <link href="http://serenenight.github.io/"/>
-  <updated>2013-07-25T09:23:52+08:00</updated>
+  <updated>2013-10-08T22:44:12+08:00</updated>
   <id>http://serenenight.github.io/</id>
   <author>
     <name><![CDATA[Serenenight]]></name>
@@ -23,10 +23,12 @@
 <p><strong>ToDo：</strong></p>
 
 <ul>
-<li><p>调整blog模板</p></li>
+<li><p><del>调整blog模板</del></p></li>
 <li><p>Mac下在github搭建octopress完全手册</p></li>
-<li><p>熟悉markdown语法</p></li>
-<li><p>将老站迁移到新的域名</p></li>
+<li><p><del>熟悉markdown语法</del></p></li>
+<li><p><del>将老站迁移到新的域名</del></p>
+
+<p>老站的域名暂时为<a href="http://wordpress.lufangming.com">http://wordpress.lufangming.com</a></p></li>
 </ul>
 
 ]]></content>
