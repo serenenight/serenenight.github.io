@@ -4,7 +4,7 @@
   <title><![CDATA[Category: My Life | SereneNight's Blog]]></title>
   <link href="http://serenenight.github.io/blog/categories/my-life/atom.xml" rel="self"/>
   <link href="http://serenenight.github.io/"/>
-  <updated>2013-10-09T01:12:53+08:00</updated>
+  <updated>2013-10-09T01:20:50+08:00</updated>
   <id>http://serenenight.github.io/</id>
   <author>
     <name><![CDATA[Serenenight]]></name>
@@ -20,8 +20,10 @@
     <id>http://serenenight.github.io/blog/2011/11/15/the-road-less-traveled</id>
     <content type="html"><![CDATA[<p>其实这篇blog应该很久前就发出去了，可自己一直拖到现在。一个是因为自己比较忙，找不出时间来写。另一个便是自己的blog碰到了LNMP+Wordpress的经典问题：blog后台出现No input file specified。当初以为是更新wp出了严重bug，想着重装，便一拖没了下文。今天google了下应该是由于wordpress升级后对于后台地址不再自动添加.com/wp-admin后的/导致的。看到网上比较合理的解决办法是修改wordpress.conf文件，今天修改后也没能成功，改天研究一下处理掉。</p>
 
-<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-&lt;!– more –></p>
+<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
+
+<!-- more -->
+
 
 <p>72天前最后还是靠自己一个人跑完了休学的所有流程，9月7号拿到了学校的正式批准，9号下午坐着T232便前往了北京。这中间体会到了学校制度的种种死板与压抑，更是坚定了我休学离开的决心。</p>
 
@@ -42,7 +44,10 @@
     <id>http://serenenight.github.io/blog/2011/08/06/111-111</id>
     <content type="html"><![CDATA[<p><del>省略两句。</del>  But I’m a loser.曾经说：最好的感情是两个人都用力的活，一起体验人生的种种趣味，也能包容与鼓励对方。当对方为你打开新的世界，你就没有因为喜欢一个人而拒绝了整个世界。只可惜这个人我得不到。她拒绝的很委婉，我却不想要那个台阶。在感情上自己是一个yes or no的人，她说什么当做哥哥什么&#8230;心里明白that&#8217;s an excuse .  3年了，她和我主动说话的次数可以用一只手数出来，never care about my things，never remember my birthday. 她却还会担心我一辈子不理她。以后怎样我还不知道，但是自己再不能因为一个女生痛苦下去了，很多事情要放开了。既然你有了喜欢的人，祝你幸福。</p>
 
-<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
+<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
+
+<!-- more -->
+
 
 <p>1000.111</p>
 
@@ -69,6 +74,9 @@
 这本书便是从刘未鹏8年的博客文章中精选出来的，主要关于心智模式、学习方法和时间利用，《暗时间》的书名便来自于此。</p>
 
 <p>每个人的生命就像沙漏，里面装的沙子总量大致相当，只是颈部粗细不同。颈部较细的沙漏能够抓住每一粒时间之沙，也就拥有了更长的生命。——刘未鹏</p>
+
+<!-- more -->
+
 
 <p><a href="http://wordpress.lufangming.com/wp-content/uploads/2011/07/s6586365.jpg"><img class="alignnone size-medium wp-image-181" title="暗时间" src="http://wordpress.lufangming.com/wp-content/uploads/2011/07/s6586365-214x300.jpg" alt="" width="214" height="300" /></a></p>
 
@@ -174,12 +182,15 @@
 
 <p>3.当你越长越大时才真的发现留给你的时间不多了，大学的一年对于我思想的影响比中学6年都要大的多，剩下的3年我要更迅速的提升。</p>
 
-<p>4.最近认识了许多的大牛，也更爱开始看别人的blog了。最近发现这个圈子快要被我挖掘出来了。记得在How to become a hacker里面Eric Steven Raymond 讲：<br/>
+<p>4.最近认识了许多的大牛，也更爱开始看别人的blog了。记得在How to become a hacker里面Eric Steven Raymond 讲：<br/>
 look  to  the  master,<br/>
 follow the  master,<br/>
 walk  with the  master,<br/>
 see  through  the  master,<br/>
 become  the master.</p>
+
+<!-- more -->
+
 
 <p>现在的自己还很弱，但我知道自己会成功的。俞敏洪曾经在他大学毕业是对自己的同学说：“大家都获得了优异的成绩，我是我们班的落后同学。但是我想让同学们放心，我决不放弃。你们五年干成的事情我干十年，你们十年干成的我干二十年，你们二十年干成的我干四十年”。我对他们说：“如果实在不行，我会保持心情愉快、身体健康，到八十岁以后把你们送走了我再走。”</p>
 
@@ -204,7 +215,7 @@ become  the master.</p>
 
 <p>&nbsp;</p>
 
-<p>go to<strong><em> <a href="http://www.okcupid.com/tests/take?testid=9935030990046738815">there</a> </em></strong>finish your test<del>remember to tell me your result</del>lol</p>
+<p>go to<strong><em> <a href="http://www.okcupid.com/tests/take?testid=9935030990046738815">there</a> </em></strong>finish your test, remember to tell me your result~~~lol</p>
 
 <p>做完测试才发现这是一个交友网站，你回答的问题越多，越能找到与你相匹配的人，很有意思~~~</p>
 ]]></content>
