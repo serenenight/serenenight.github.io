@@ -26,10 +26,10 @@
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
   <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
   <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-
+-->
   
 
 </head>
@@ -91,7 +91,7 @@
   </header>
 
 
-<div class="entry-content"><p>其实这篇blog应该很久前就发出去了，可自己一直拖到现在。一个是因为自己比较忙，找不出时间来写。另一个便是自己的blog碰到了LNMP+Wordpress的经典问题：blog后台出现No input file specified。当初以为是更新wp出了严重bug，想着重装，便一拖没了下文。今天google了下应该是由于wordpress升级后对于后台地址不再自动添加.com/wp-admin后的/导致的。看到网上比较合理的解决办法是修改wordpress.conf文件，今天修改后也没能成功，改天研究一下处理掉。</p>
+<div class="entry-content"><p>其实这篇blog应该很久前就发出去了，可自己一直拖到现在。一个是因为自己比较忙，找不出时间来写。另一个便是自己的blog碰到了LNMP+Wordpress的经典问题：blog后台出现No input file specified。当初以为是更新wp出了严重bug，想着重装，便一拖没了下文。今天google了下应该是由于wordpress升级后对于后台地址不再自动添加.com/wp-admin后的/导致的。看到网上比较合理的解决办法是修改wordpress.conf文件，今天修改后也没能成功，<del>改天研究一下处理掉</del>。</p>
 
 <p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
 
@@ -143,9 +143,7 @@
     
       <div class="sharing">
   
-  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://serenenight.github.io/blog/2011/11/15/the-road-less-traveled/" data-via="" data-counturl="http://serenenight.github.io/blog/2011/11/15/the-road-less-traveled/" >Tweet</a>
-  
-  
+  		Included file 'sns_share.html' not found in _includes directory
   
 </div>
 
@@ -219,22 +217,6 @@
 
 </footer>
   
-
-
-
-
-
-
-
-  <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = '//platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-    })();
-  </script>
 
 
 
