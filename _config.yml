@@ -71,5 +71,8 @@ github_skip_forks: true
 # Google Analytics
 google_analytics_tracking_id:
 
-# sns Comments
+# Sns Comments
 sns_share: ture
+
+# Post License
+post_license: true
