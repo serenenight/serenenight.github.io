@@ -4,7 +4,7 @@
   <title><![CDATA[SereneNight's Blog]]></title>
   <link href="http://serenenight.github.io/atom.xml" rel="self"/>
   <link href="http://serenenight.github.io/"/>
-  <updated>2013-10-09T01:20:50+08:00</updated>
+  <updated>2013-10-09T01:26:13+08:00</updated>
   <id>http://serenenight.github.io/</id>
   <author>
     <name><![CDATA[Serenenight]]></name>
@@ -28,7 +28,9 @@
 <li><p><del>熟悉markdown语法</del></p></li>
 <li><p><del>将老站迁移到新的域名</del></p>
 
-<p>老站的域名暂时为<a href="http://wordpress.lufangming.com">http://wordpress.lufangming.com</a></p></li>
+<p><del>老站的域名暂时为<a href="http://wordpress.lufangming.com">http://wordpress.lufangming.com</a></del></p>
+
+<p>已经将老站的数据导入至octopress中</p></li>
 </ul>
 
 ]]></content>
@@ -41,7 +43,7 @@
     <id>http://serenenight.github.io/blog/2011/11/15/the-road-less-traveled</id>
     <content type="html"><![CDATA[<p>其实这篇blog应该很久前就发出去了，可自己一直拖到现在。一个是因为自己比较忙，找不出时间来写。另一个便是自己的blog碰到了LNMP+Wordpress的经典问题：blog后台出现No input file specified。当初以为是更新wp出了严重bug，想着重装，便一拖没了下文。今天google了下应该是由于wordpress升级后对于后台地址不再自动添加.com/wp-admin后的/导致的。看到网上比较合理的解决办法是修改wordpress.conf文件，今天修改后也没能成功，改天研究一下处理掉。</p>
 
-<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
+<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
 
 <!-- more -->
 
@@ -65,7 +67,7 @@
     <id>http://serenenight.github.io/blog/2011/08/06/111-111</id>
     <content type="html"><![CDATA[<p><del>省略两句。</del>  But I’m a loser.曾经说：最好的感情是两个人都用力的活，一起体验人生的种种趣味，也能包容与鼓励对方。当对方为你打开新的世界，你就没有因为喜欢一个人而拒绝了整个世界。只可惜这个人我得不到。她拒绝的很委婉，我却不想要那个台阶。在感情上自己是一个yes or no的人，她说什么当做哥哥什么&#8230;心里明白that&#8217;s an excuse .  3年了，她和我主动说话的次数可以用一只手数出来，never care about my things，never remember my birthday. 她却还会担心我一辈子不理她。以后怎样我还不知道，但是自己再不能因为一个女生痛苦下去了，很多事情要放开了。既然你有了喜欢的人，祝你幸福。</p>
 
-<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
+<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
 
 <!-- more -->
 
