@@ -46,9 +46,7 @@ categories:
 
 18.其实自己有点羡慕@xzjh
 
-19. main<span style="color: #000000;">：</span>@zhihu@douban@twitter@Sina Weibo@Facebook
-
-@RenRen@GTalk@amazon@taobao@verycd@Vancl
+~~19.~~
 
 20.Doris
 
