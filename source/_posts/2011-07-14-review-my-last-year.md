@@ -5,7 +5,6 @@ date: 2011-07-14
 comments: true
 categories:
   - My Life
-tags: [回顾,思考]
 keywords: 异类, 提升, 硕市生
 description: look  to  the  master, follow the  master, walk with the  master, see  through  the  master, become  the master. 
 ---

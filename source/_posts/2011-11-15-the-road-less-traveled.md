@@ -5,7 +5,6 @@ date: 2011-11-15
 comments: true
 categories:
   - My Life
-tags: [回顾,休学,创业,北京]
 keywords: 北京,创业,休学,改变
 description: 我在北京，休学参加一次创业，希望成功，给世界带来些改变。就这样，走我自己的路。
 ---

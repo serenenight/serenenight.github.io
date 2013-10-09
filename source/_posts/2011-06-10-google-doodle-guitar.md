@@ -5,7 +5,6 @@ date: 2011-06-10
 comments: true
 categories:
   - My Life
-tags: [google,doodle]
 keywords: google, doodle, 电吉他之父, 6月9日
 description: 为了纪念电吉他之父莱斯·保罗（Les Paul，1915年6月9日－2009年8月13日）诞辰96周年，6月9日的Google Doodle被设计成了一个电吉他。 
 ---

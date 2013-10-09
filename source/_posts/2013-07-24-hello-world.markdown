@@ -5,7 +5,6 @@ date: 2013-07-24 20:48
 comments: true
 categories:
   - My Life
-tags: [wordpress,octopress]
 keywords: wordpress, octopress
 description: 从Wordpress向Octopress转换
 ---

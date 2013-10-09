@@ -5,7 +5,6 @@ date: 2011-06-14
 comments: true
 categories:
   - My Life
-tags: [modern,cool nerd]
 keywords: nerd, geek, dork
 description: your result for the nerd?geek? or dork? test
 ---
