@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: My | SereneNight's Blog]]></title>
+  <link href="http://serenenight.github.io/blog/categories/my/atom.xml" rel="self"/>
+  <link href="http://serenenight.github.io/"/>
+  <updated>2013-10-09T10:02:03+08:00</updated>
+  <id>http://serenenight.github.io/</id>
+  <author>
+    <name><![CDATA[Serenenight]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello Octopress]]></title>
+    <link href="http://serenenight.github.io/blog/2013/07/24/hello-world/"/>
+    <updated>2013-07-24T20:48:00+08:00</updated>
+    <id>http://serenenight.github.io/blog/2013/07/24/hello-world</id>
+    <content type="html"><![CDATA[<p>从<strong>Wordpress</strong>向<strong>Octopress</strong>转换</p>
+
+<p><strong>ToDo：</strong></p>
+
+<ul>
+<li><p><del>调整blog模板</del></p></li>
+<li><p>Mac下在github搭建octopress完全手册</p></li>
+<li><p><del>熟悉markdown语法</del></p></li>
+<li><p><del>将老站迁移到新的域名</del></p>
+
+<p><del>老站的域名暂时为<a href="http://wordpress.lufangming.com">http://wordpress.lufangming.com</a></del></p>
+
+<p>已经将老站的数据导入至octopress中</p></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[少有人走的路]]></title>
+    <link href="http://serenenight.github.io/blog/2011/11/15/the-road-less-traveled/"/>
+    <updated>2011-11-15T00:00:00+08:00</updated>
+    <id>http://serenenight.github.io/blog/2011/11/15/the-road-less-traveled</id>
+    <content type="html"><![CDATA[<p>其实这篇blog应该很久前就发出去了，可自己一直拖到现在。一个是因为自己比较忙，找不出时间来写。另一个便是自己的blog碰到了LNMP+Wordpress的经典问题：blog后台出现No input file specified。当初以为是更新wp出了严重bug，想着重装，便一拖没了下文。今天google了下应该是由于wordpress升级后对于后台地址不再自动添加.com/wp-admin后的/导致的。看到网上比较合理的解决办法是修改wordpress.conf文件，今天修改后也没能成功，<del>改天研究一下处理掉</del>。</p>
+
+<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
+
+<!-- more -->
+
+
+<p>72天前最后还是靠自己一个人跑完了休学的所有流程，9月7号拿到了学校的正式批准，9号下午坐着T232便前往了北京。这中间体会到了学校制度的种种死板与压抑，更是坚定了我休学离开的决心。</p>
+
+<p>休学的想法已经不是第一次提出了，按父亲的说法是他都有些害怕放假、开学这敏感的日子，不过最终他还是同意了，也许是这次我给他了更好的理由吧。还记得大一第一学期末开始打算休学的时候，和学长聊心，和父亲聊心，和舅舅聊心&#8230;有支持我的，也有极力反对的，当时也算是把家里搅得鸡犬不宁了吧？当初的理由没有说服他们，甚至到后来也没能说服我。不过事实证明是正确的，以当时的状态我的确已经不适合在学校继续待下去了。当了12年的“乖”学生，发现那个角色已经越来越不适合自己了，从今年起要真正的为自己努力，为自己而活着。</p>
+
+<p>这次离开学校走的很低调，除了身边近的人，基本没有再向他人透漏，也更是要求他们不要扩散这个消息。因为其实自己心中觉得这对他人来讲不一定是件好事，我没有必要给他人带去一些影响或是怎样。离开前最后一次去看导员，她说很羡慕我，有这样的勇气也能有这样的机会，我不知道该怎么回答，因为自己更多是follow my heart吧。也祝福导员能达成她告诉我的自己的计划，从心一次。</p>
+
+<p>讲这么多还是没说现在的事：我在北京，参加一次创业，希望成功，给世界带来些改变。就这样，走我自己的路。</p>
+
+<p><a href="http://wordpress.lufangming.com/wp-content/uploads/2011/11/%E6%88%91%E6%98%8E%E7%99%BD%E4%BF%A1%E4%BB%B0%E6%98%AF%E4%B8%80%E7%A7%8D%E5%98%B4%E8%A7%92%E4%B8%8A%E6%89%AC%E7%9A%84%E4%BA%BA%E7%94%9F%E6%80%81%E5%BA%A6.jpg"><img class="alignnone size-full wp-image-208" title="我明白信仰是一种嘴角上扬的人生态度" src="http://wordpress.lufangming.com/wp-content/uploads/2011/11/我明白信仰是一种嘴角上扬的人生态度.jpg" alt="" width="690" height="459" /></a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[111.111]]></title>
+    <link href="http://serenenight.github.io/blog/2011/08/06/111-111/"/>
+    <updated>2011-08-06T00:00:00+08:00</updated>
+    <id>http://serenenight.github.io/blog/2011/08/06/111-111</id>
+    <content type="html"><![CDATA[<p><del>省略两句。</del>  But I’m a loser.曾经说：最好的感情是两个人都用力的活，一起体验人生的种种趣味，也能包容与鼓励对方。当对方为你打开新的世界，你就没有因为喜欢一个人而拒绝了整个世界。只可惜这个人我得不到。她拒绝的很委婉，我却不想要那个台阶。在感情上自己是一个yes or no的人，她说什么当做哥哥什么&#8230;心里明白that&#8217;s an excuse .  3年了，她和我主动说话的次数可以用一只手数出来，never care about my things，never remember my birthday. 她却还会担心我一辈子不理她。以后怎样我还不知道，但是自己再不能因为一个女生痛苦下去了，很多事情要放开了。既然你有了喜欢的人，祝你幸福。</p>
+
+<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
+
+<!-- more -->
+
+
+<p>1000.111</p>
+
+<p>这是这个blog里最后一次记感情这种事，我也厌烦了。ACG，学术，我要离开天朝</p>
+
+<p>&nbsp;</p>
+
+<p>1000.1010</p>
+
+<p>今天知道了一些事情，我没有对她表示什么。这件事情永远记在这里，记录我的**。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[推荐读书《暗时间》]]></title>
+    <link href="http://serenenight.github.io/blog/2011/07/31/recommend-a-book-DarkTime/"/>
+    <updated>2011-07-31T00:00:00+08:00</updated>
+    <id>http://serenenight.github.io/blog/2011/07/31/recommend-a-book-DarkTime</id>
+    <content type="html"><![CDATA[<p>作者是我非常喜欢的一位大牛，推荐给大家：</p>
+
+<p>2003年，刘未鹏在杂志上发表了自己的第一篇文章，并开始写博客。最初的博客较短，也较琐碎，并夹杂着一些翻译的文章。后来渐渐开始有了一些自己的心得和看法。总体上在这8年里，作者平均每个月写1篇博客或更少，但从未停止。<br/>
+刘未鹏说——<br/>
+写博客这件事情给我最大的体会就是，一件事情如果你能够坚持做8年，那么不管效率和频率多低，最终总能取得一些很可观的收益。而另一个体会就是，一件事情只要你坚持得足够久，“坚持”就会慢慢变成“习惯”。原本需要费力去驱动的事情便成了家常便饭，云淡风轻。<br/>
+这本书便是从刘未鹏8年的博客文章中精选出来的，主要关于心智模式、学习方法和时间利用，《暗时间》的书名便来自于此。</p>
+
+<p>每个人的生命就像沙漏，里面装的沙子总量大致相当，只是颈部粗细不同。颈部较细的沙漏能够抓住每一粒时间之沙，也就拥有了更长的生命。——刘未鹏</p>
+
+<!-- more -->
+
+
+<p><a href="http://wordpress.lufangming.com/wp-content/uploads/2011/07/s6586365.jpg"><img class="alignnone size-medium wp-image-181" title="暗时间" src="http://wordpress.lufangming.com/wp-content/uploads/2011/07/s6586365-214x300.jpg" alt="" width="214" height="300" /></a></p>
+
+<div id="note_160113445_full">
+  <pre><strong>序言</strong>　为什么人人都该学点心理学
+     <a rel="nofollow" href="http://blog.sina.com.cn/s/blog_4caedc7a0100j20h.html" target="_blank">http://blog.sina.com.cn/s/blog_4caedc7a0100j20h.html</a>
+
+<strong>第一篇　暗时间</strong>
+
+       1、暗时间
+          <a rel="nofollow" href="http://mindhacks.cn/2009/12/20/dark-time/" target="_blank">http://mindhacks.cn/2009/12/20/dark-time/</a>
+
+       2、设计你自己的进度条
+          <a rel="nofollow" href="http://mindhacks.cn/2009/10/05/im-a-tiny-bird-book-review/" target="_blank">http://mindhacks.cn/2009/10/05/im-a-tiny-bird-book-review/</a>
+
+       3、如何有效地记忆与学习
+          <a rel="nofollow" href="http://blog.csdn.net/pongba/article/details/4033477" target="_blank">http://blog.csdn.net/pongba/article/details/4033477</a>
+
+       4、学习密度与专注力
+          <a rel="nofollow" href="http://mindhacks.cn/2007/05/24/learn-to-focus/" target="_blank">http://mindhacks.cn/2007/05/24/learn-to-focus/</a>    
+
+       5、一直以来伴随我的一些学习习惯
+          <a rel="nofollow" href="http://mindhacks.cn/2008/07/08/learning-habits-part1/" target="_blank">http://mindhacks.cn/2008/07/08/learning-habits-part1/</a>
+          <a rel="nofollow" href="http://mindhacks.cn/2008/07/20/learning-habits-part2/" target="_blank">http://mindhacks.cn/2008/07/20/learning-habits-part2/</a>
+          <a rel="nofollow" href="http://mindhacks.cn/2008/09/17/learning-habits-part3/" target="_blank">http://mindhacks.cn/2008/09/17/learning-habits-part3/</a>
+          <a rel="nofollow" href="http://mindhacks.cn/2008/12/05/learning-habits-part4/" target="_blank">http://mindhacks.cn/2008/12/05/learning-habits-part4/</a>  
+
+       6、我在南大的七年
+          <a rel="nofollow" href="http://mindhacks.cn/2009/05/17/seven-years-in-nju/" target="_blank">http://mindhacks.cn/2009/05/17/seven-years-in-nju/</a>
+
+<strong>第二篇　思维改变生活</strong>
+
+       7、逃出你的肖申克
+       7-1为什么亲身经历才能明白？
+          <a rel="nofollow" href="http://mindhacks.cn/2009/01/18/escape-from-your-shawshank-part1/" target="_blank">http://mindhacks.cn/2009/01/18/escape-from-your-shawshank-part1/</a>
+
+       7-2仁者见仁智者见智？从视觉错觉到偏见
+          <a rel="nofollow" href="http://mindhacks.cn/2009/03/15/preconception-explained/" target="_blank">http://mindhacks.cn/2009/03/15/preconception-explained/</a>
+
+       7-3遇见20万年前的自己
+          <a rel="nofollow" href="http://mindhacks.cn/2010/03/18/escape-from-your-shawshank-part3/" target="_blank">http://mindhacks.cn/2010/03/18/escape-from-your-shawshank-part3/</a>
+
+       7-4理智与情感
+          <a rel="nofollow" href="http://mindhacks.cn/2011/01/23/escape-from-your-shawshank-4/" target="_blank">http://mindhacks.cn/2011/01/23/escape-from-your-shawshank-4/</a>
+
+       8、书写是为了更好地思考
+          <a rel="nofollow" href="http://mindhacks.cn/2009/02/09/writing-is-better-thinking/" target="_blank">http://mindhacks.cn/2009/02/09/writing-is-better-thinking/</a>
+
+       9、为什么你从现在开始就应该写博客
+          <a rel="nofollow" href="http://mindhacks.cn/2009/02/15/why-you-should-start-blogging-now/" target="_blank">http://mindhacks.cn/2009/02/15/why-you-should-start-blogging-now/</a>
+
+       10、我不想与我不能
+          <a rel="nofollow" href="http://blog.csdn.net/pongba/article/details/1664597" target="_blank">http://blog.csdn.net/pongba/article/details/1664597</a>
+
+       11、遇到问题为什么应该自己动手
+          <a rel="nofollow" href="http://mindhacks.cn/2009/07/06/why-you-should-do-it-yourself/" target="_blank">http://mindhacks.cn/2009/07/06/why-you-should-do-it-yourself/</a>
+
+       12、什么才是你的不可替代性&核心竞争力
+          <a rel="nofollow" href="http://mindhacks.cn/2009/01/14/make-yourself-irreplacable/" target="_blank">http://mindhacks.cn/2009/01/14/make-yourself-irreplacable/</a>
+
+<strong>第三篇　跟波利亚学解题</strong> 
+
+       17、跟波利亚学解题
+          <a rel="nofollow" href="http://mindhacks.cn/2008/04/18/learning-from-polya/" target="_blank">http://mindhacks.cn/2008/04/18/learning-from-polya/</a>
+
+      18、锤子和钉子
+          <a rel="nofollow" href="http://blog.csdn.net/pongba/article/details/3796771" target="_blank">http://blog.csdn.net/pongba/article/details/3796771</a>
+
+      19、鱼是最后一个看到水的
+          <a rel="nofollow" href="http://blog.csdn.net/pongba/article/details/2025830" target="_blank">http://blog.csdn.net/pongba/article/details/2025830</a>
+
+      20、知其所以然
+          <a rel="nofollow" href="http://mindhacks.cn/2008/07/07/the-importance-of-knowing-why/" target="_blank">http://mindhacks.cn/2008/07/07/the-importance-of-knowing-why/</a>
+
+      21、为什么有必要知其所以然
+          <a rel="nofollow" href="http://mindhacks.cn/2010/11/14/the-importance-of-knowing-why-part2/" target="_blank">http://mindhacks.cn/2010/11/14/the-importance-of-knowing-why-part2/</a>
+
+      22、康托尔、哥德尔、图灵 — 永恒的金色对角线
+          <a rel="nofollow" href="http://mindhacks.cn/2006/10/15/cantor-godel-turing-an-eternal-golden-diagonal/" target="_blank">http://mindhacks.cn/2006/10/15/cantor-godel-turing-an-eternal-golden-diagonal/</a>
+
+      23、数学之美番外篇：快排为什么那样快
+          <a rel="nofollow" href="http://mindhacks.cn/2008/06/13/why-is-quicksort-so-quick/" target="_blank">http://mindhacks.cn/2008/06/13/why-is-quicksort-so-quick/</a>
+
+      24、数学之美番外篇：平凡而又神奇的贝叶斯方法
+          <a rel="nofollow" href="http://mindhacks.cn/2008/09/21/the-magical-bayesian-method/" target="_blank">http://mindhacks.cn/2008/09/21/the-magical-bayesian-method/</a>
+
+在这里感谢@humble的总结.总结的原文链接：http://www.douban.com/note/160113445/</pre>
+</div>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[回顾一年]]></title>
+    <link href="http://serenenight.github.io/blog/2011/07/14/review-my-last-year/"/>
+    <updated>2011-07-14T00:00:00+08:00</updated>
+    <id>http://serenenight.github.io/blog/2011/07/14/review-my-last-year</id>
+    <content type="html"><![CDATA[<p>1.今天，如果严格说应该是昨天7月13日，小护照成功获得了第二轮千万级别的融资。我真心为乐圣感到高兴，其中的不容易和坎坷，对于没有经历过的人都无从而知。 其他的我不想多说，我相信小护照的努力会成功的。</p>
+
+<p>2.之前看了一本书——《异类》很不错，里面讲述的环境对于成功的影响，10W小时定律都是很值得深思的内容。</p>
+
+<p>3.当你越长越大时才真的发现留给你的时间不多了，大学的一年对于我思想的影响比中学6年都要大的多，剩下的3年我要更迅速的提升。</p>
+
+<p>4.最近认识了许多的大牛，也更爱开始看别人的blog了。记得在How to become a hacker里面Eric Steven Raymond 讲：<br/>
+look  to  the  master,<br/>
+follow the  master,<br/>
+walk  with the  master,<br/>
+see  through  the  master,<br/>
+become  the master.</p>
+
+<!-- more -->
+
+
+<p>现在的自己还很弱，但我知道自己会成功的。俞敏洪曾经在他大学毕业是对自己的同学说：“大家都获得了优异的成绩，我是我们班的落后同学。但是我想让同学们放心，我决不放弃。你们五年干成的事情我干十年，你们十年干成的我干二十年，你们二十年干成的我干四十年”。我对他们说：“如果实在不行，我会保持心情愉快、身体健康，到八十岁以后把你们送走了我再走。”</p>
+
+<p>5.人生中的差距有很多是你不能弥补的，家庭的环境，学校的环境，班级的环境。曾经的我心智模式还很弱，也从来没有人给过我指点，以至于自己被周遭的环境同化的太多。也许我已经比神牛们落后的太多，但我相信自己不断的追赶会缩小这个差距。也许是5年，10年甚至20年但我不会放弃。</p>
+
+<p>6.大一一年的华硕硕市生生涯结束了，曾经还想要专门写一篇博客来纪念一下这一年另类的ACM生活。最终还是算了吧，自己写稿子本身就很慢现在没有那样的时间。这一年的硕市生组织体验在很多方面也影响了我，并且给我一个机会看到了社会的很多方面。也正是硕市生的经验，才让我有机会创办了明涛电子。</p>
+
+<p>7.明涛电子是自己在大一下学期做起的类学生创业组织。明涛电子在这学期也基本落下帷幕，如果包含一些大件产品，总的销售额估计在7W左右。对于我来讲还是相当不错了。虽然没有给自己带来多少额外的收入，但是这次的体验，让我对创业，伙伴的选择，团队的构建都有了很深刻的认识与第一手的资料。</p>
+
+<p>8.其实还有很多事没有讲出来，让他们慢慢沉淀吧。</p>
+]]></content>
+  </entry>
+  
+</feed>

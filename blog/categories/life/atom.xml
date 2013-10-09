@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: My Life | SereneNight's Blog]]></title>
-  <link href="http://serenenight.github.io/blog/categories/my-life/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Life | SereneNight's Blog]]></title>
+  <link href="http://serenenight.github.io/blog/categories/life/atom.xml" rel="self"/>
   <link href="http://serenenight.github.io/"/>
-  <updated>2013-10-09T09:11:31+08:00</updated>
+  <updated>2013-10-09T10:02:03+08:00</updated>
   <id>http://serenenight.github.io/</id>
   <author>
     <name><![CDATA[Serenenight]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello Octopress]]></title>
+    <link href="http://serenenight.github.io/blog/2013/07/24/hello-world/"/>
+    <updated>2013-07-24T20:48:00+08:00</updated>
+    <id>http://serenenight.github.io/blog/2013/07/24/hello-world</id>
+    <content type="html"><![CDATA[<p>从<strong>Wordpress</strong>向<strong>Octopress</strong>转换</p>
+
+<p><strong>ToDo：</strong></p>
+
+<ul>
+<li><p><del>调整blog模板</del></p></li>
+<li><p>Mac下在github搭建octopress完全手册</p></li>
+<li><p><del>熟悉markdown语法</del></p></li>
+<li><p><del>将老站迁移到新的域名</del></p>
+
+<p><del>老站的域名暂时为<a href="http://wordpress.lufangming.com">http://wordpress.lufangming.com</a></del></p>
+
+<p>已经将老站的数据导入至octopress中</p></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[少有人走的路]]></title>
@@ -201,23 +224,6 @@ become  the master.</p>
 <p>7.明涛电子是自己在大一下学期做起的类学生创业组织。明涛电子在这学期也基本落下帷幕，如果包含一些大件产品，总的销售额估计在7W左右。对于我来讲还是相当不错了。虽然没有给自己带来多少额外的收入，但是这次的体验，让我对创业，伙伴的选择，团队的构建都有了很深刻的认识与第一手的资料。</p>
 
 <p>8.其实还有很多事没有讲出来，让他们慢慢沉淀吧。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Nerd? Geek? or Dork? Test!]]></title>
-    <link href="http://serenenight.github.io/blog/2011/06/14/the-nerd-geek-or-dork-test/"/>
-    <updated>2011-06-14T00:00:00+08:00</updated>
-    <id>http://serenenight.github.io/blog/2011/06/14/the-nerd-geek-or-dork-test</id>
-    <content type="html"><![CDATA[<p>This is my result</p>
-
-<p><a href="http://wordpress.lufangming.com/wp-content/uploads/2011/06/fe525d42948b.jpg"><img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="未命名" src="http://wordpress.lufangming.com/wp-content/uploads/2011/06/thumb.jpg" border="0" alt="未命名" width="554" height="646" /></a></p>
-
-<p>&nbsp;</p>
-
-<p>go to<strong><em> <a href="http://www.okcupid.com/tests/take?testid=9935030990046738815">there</a> </em></strong>finish your test, remember to tell me your result~~~lol</p>
-
-<p>做完测试才发现这是一个交友网站，你回答的问题越多，越能找到与你相匹配的人，很有意思~~~</p>
 ]]></content>
   </entry>
   
