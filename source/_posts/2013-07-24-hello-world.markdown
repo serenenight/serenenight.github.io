@@ -3,7 +3,11 @@ layout: post
 title: "Hello Octopress"
 date: 2013-07-24 20:48
 comments: true
-categories: 
+categories:
+  - My Life
+tags: [wordpress,octopress]
+keywords: wordpress, octopress
+description: 从Wordpress向Octopress转换
 ---
 从**Wordpress**向**Octopress**转换
 

@@ -5,6 +5,9 @@ date: 2011-07-31
 comments: true
 categories:
   - My Life
+tags: [刘未鹏,暗时间]
+keywords: 暗时间, 刘未鹏, mindhacks
+description: 《暗时间》这本书便是从刘未鹏8年的博客文章中精选出来的，主要关于心智模式、学习方法和时间利用。
 ---
 作者是我非常喜欢的一位大牛，推荐给大家：
 

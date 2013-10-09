@@ -5,6 +5,8 @@ date: 2011-05-10
 comments: true
 categories:
   - My Life
+tags: [blog,wordpress,域名]
+keywords: wordpress, blog
 ---
 <span style="font-family: 微软雅黑;">为什么写博客</span><span style="font-family: 微软雅黑;">：</span>
 

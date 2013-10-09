@@ -5,6 +5,9 @@ date: 2011-11-15
 comments: true
 categories:
   - My Life
+tags: [回顾,休学,创业,北京]
+keywords: 北京,创业,休学,改变
+description: 我在北京，休学参加一次创业，希望成功，给世界带来些改变。就这样，走我自己的路。
 ---
 其实这篇blog应该很久前就发出去了，可自己一直拖到现在。一个是因为自己比较忙，找不出时间来写。另一个便是自己的blog碰到了LNMP+Wordpress的经典问题：blog后台出现No input file specified。当初以为是更新wp出了严重bug，想着重装，便一拖没了下文。今天google了下应该是由于wordpress升级后对于后台地址不再自动添加.com/wp-admin后的/导致的。看到网上比较合理的解决办法是修改wordpress.conf文件，今天修改后也没能成功，~~改天研究一下处理掉~~。
 

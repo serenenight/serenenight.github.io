@@ -5,6 +5,9 @@ date: 2011-07-14
 comments: true
 categories:
   - My Life
+tags: [回顾,思考]
+keywords: 异类, 提升, 硕市生
+description: look  to  the  master, follow the  master, walk with the  master, see  through  the  master, become  the master. 
 ---
 1.今天，如果严格说应该是昨天7月13日，小护照成功获得了第二轮千万级别的融资。我真心为乐圣感到高兴，其中的不容易和坎坷，对于没有经历过的人都无从而知。 其他的我不想多说，我相信小护照的努力会成功的。
 
