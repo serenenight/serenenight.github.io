@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Bitcoin | SereneNight's Blog]]></title>
   <link href="http://serenenight.github.io/blog/categories/bitcoin/atom.xml" rel="self"/>
   <link href="http://serenenight.github.io/"/>
-  <updated>2013-10-31T14:54:16+08:00</updated>
+  <updated>2013-10-31T17:04:48+08:00</updated>
   <id>http://serenenight.github.io/</id>
   <author>
     <name><![CDATA[Serenenight]]></name>
@@ -28,21 +28,26 @@
 
 <p>译：我使用了"on the cusp"可能让一些人误认为这是顶点的意思，实际上我表达的是在入口，起点之意。</p>
 
-<p>我并不认为比特币其自身是个泡沫或者现在处在泡沫中，但是有时候我们会看到价格上升的太快以至于引起了“泡沫破裂”，下跌持续一年甚至更久。我想不出几个月甚至几个礼拜这第三次大增长就要开始了。当然，直到它结束时，我们并不知道它是不是一个泡沫。</p>
+<p>我并不认为比特币其自身是个泡沫或者现在处在泡沫中，但是有时候我们会看到价格上升的太快以至于引起了“泡沫破裂”，下跌持续一年甚至更久。这次，我想不出几个月甚至几个礼拜第三次大增长就要开始了。当然，直到它结束时，我们并不知道它是不是一个“泡沫”。</p>
 
 <p>我们都更期待一个让人们所接纳的缓慢而平稳的增长，可惜我并没看到它发生:)</p></blockquote>
 
+<!-- more -->
+
+
 <h2>我们已经从上一次的暴跌中恢复</h2>
 
-<p>你可能认为这样的观点为时尚早（考虑到上次从暴跌中恢复的时间），但是相比2011年很多事情已经大有不同。我之所以这样认为是因为上次的泡沫过早的破裂是由于Mt.Gox&rsquo;s 的交易引擎故障。</p>
+<p>你可能认为这样的观点为时尚早（考虑到11年那次暴跌后恢复的时间），但是相比2011年很多事情已经<a href="http://i.imgur.com/ZQ84alC.png">大有不同</a>。我之所以这样认为是因为今年4月份的那次泡沫破裂是由于[Mt.Gox&rsquo;s 的交易引擎故障]（<a href="https://www.mtgox.com/press_release_20130404.html%EF%BC%89%E3%80%82">https://www.mtgox.com/press_release_20130404.html%EF%BC%89%E3%80%82</a></p>
 
 <p>自上一次泡沫以来，<a href="http://i.imgur.com/DKyPVJf.png">购买比特币的google指数已经上升至其最高点</a></p>
 
 <p>类似的，<a href="http://i.imgur.com/uLxXape.png">比特币的google指数也到了一个高点</a>。一定程度上是Silk Road 的新闻起到的作用。</p>
 
+<p><a href="http://i.imgur.com/8ry9u8u.png">比特币在维基百科中近日浏览指数居第五</a></p>
+
 <p><a href="http://i.imgur.com/TuBzZek.png">Bitcoin 的每日交易量也达到了上次泡沫时的水平</a></p>
 
-<p>比特币ATM 的新闻（见下文） 导致了比特币在加拿大的google趋势上曾位列第一。一旦过了今天，那个27美元的故事（见下文）也几乎肯定会让比特币在世界范围内登上google 的搜索热门。</p>
+<p><a href="http://www.8btc.com/robocoin-ceo-launches-first-bitcoin-atm-vancouver">比特币ATM的新闻</a>导致了比特币在加拿大的google趋势上曾位列第一。一旦过了今天，那个<a href="http://www.8btc.com/man-forgets-about-buying-27-of-bitcoin-is-now-worth-a-1454150399">27美元的故事</a>也几乎肯定会让比特币在世界范围内登上google 的搜索热门。</p>
 
 <h2>越来越多的商家接受比特币交易</h2>
 
@@ -50,21 +55,23 @@
 
 <ul>
 <li><a href="http://uptweet.com/viewStory?id=1519">Bitpay 上超过10000家商家接受比特币交易</a></li>
-<li><a href="http://techcrunch.com/2013/08/27/coinbase-removes-1-merchant-fee-for-first-1-million-in-orders/">Coinbase 为前100百万交易免去手续费</a></li>
-<li><a href="http://coinmap.org/#zoom=3&amp;amp;lat=0&amp;amp;lon=0&amp;amp;layer=OpenStreetMap">CoinMap 上支持比特币交易的商家在迅速增长</a></li>
+<li><a href="http://www.8btc.com/bips-enables-bigcommerces-40000-merchants-accept-bitcoin">BIPS让Bigcommerce超过40000家商户接受比特币</a></li>
+<li><a href="http://www.8btc.com/coinbase-waives-fees-for-businesses-first-1m-of-sales">CoinBase取消百万销售额以下的手续费</a></li>
+<li><a href="http://coinmap.org/#zoom=3&amp;amp;lat=0&amp;amp;lon=0&amp;amp;layer=OpenStreetMap">CoinMap上支持比特币交易的商家在迅速增长</a></li>
 <li><a href="http://www.reddit.com/r/Bitcoin/comments/1fnmdn/i_paid_my_rent_with_billpayforcoinscom/">现在你可以使用比特币来支付租金</a></li>
-<li><a href="http://www.coindesk.com/life-bitcoin-couple-pays-hotel-flights-bitcoin/">使用比特币购买酒店和机票</a></li>
+<li><a href="http://www.coindesk.com/life-bitcoin-couple-pays-hotel-flights-bitcoin/">比特币蜜月夫妇使用比特币购买酒店和机票</a></li>
 <li><a href="http://money.cnn.com/2013/06/10/technology/innovation/bitcoin-baby/index.html?source=linkedin">世界首个比特币宝宝</a></li>
-<li><a href="http://www.coindesk.com/online-game-developer-bigpoint-now-accepts-bitcoins-virtual-goods/">知名社交游戏公司BigPoint接受比特币支付</a></li>
+<li><a href="http://www.8btc.com/online-game-developer-bigpoint-now-accepts-bitcoins-virtual-goods">知名社交游戏公司BigPoint接受比特币支付</a></li>
+<li><a href="http://blog.coinbase.com/post/50022567203/humble-bundle-now-accepting-bitcoin-using-coinbase">著名游戏销售平台Humble Bundle接受比特币</a></li>
 <li><a href="http://www.businessinsider.com/bitcoinshop-us-2013-9">美国电商BitcoinShop.us开始营业</a></li>
 <li><a href="http://business.avn.com/articles/technology/U-K-Escort-Agency-Accepts-Bitcoin-529146.html">英国 Escort Agency 开始支持比特币</a></li>
-<li><a href="http://i.imgur.com/GI2fyGH.jpg">使用比特币打出租车</a></li>
+<li><a href="http://8btc.com/thread-907-1-1.html">使用比特币打出租车</a></li>
 <li><a href="https://www.foodler.com/user/Bitcoin.do">Foodler开始支持比特币</a></li>
 <li><a href="http://www.reddit.com/r/Bitcoin/comments/1efym7/one_of_russian_biggest_epayment_system_webmoney/">俄罗斯最大的电子支付系统之一WebMoney开始支持比特币</a></li>
 </ul>
 
 
-<h2>慈善机构开始接受比特币捐款</h2>
+<h2>许多机构开始接受比特币捐款</h2>
 
 <p>我的第一个比特币是捐给了Wikileaks。越来越多的地方都开始设立比特币捐赠按钮，因为何乐而不为呢？</p>
 
@@ -74,10 +81,34 @@
 <li><a href="http://blog.coinbase.com/post/57119163938/khan-academy-now-accepts-bitcoin-donations-using">可汗学院开始接受比特币捐款</a></li>
 <li><a href="http://www.gimp.org/donating/">著名图形处理软件Gimp开始接受比特币捐款</a></li>
 <li><a href="http://www.blender.org/blenderorg/blender-foundation/donation-payment">著名开源三维动画制作软件Blender开始接受比特币捐款</a></li>
-<li><a href="">著名游戏销售平台Humble Bundle接受比特币</a></li>
 <li><a href="https://www.lp.org/make-a-bitcoin-contribution">美国自由党开始接受比特币捐款</a></li>
 <li><a href="http://libertarian.ca/bitcoin-donations">加拿大自由党开始接受比特币捐款</a></li>
 <li><a href="https://www.facebook.com/photo.php?fbid=10151662946598333&amp;set=a.10151150868063333.444343.131689188332&amp;type=1">巴西自由党开始接受比特币捐款</a></li>
+<li><a href="https://www.erowid.org/donations/donations_bitcoin.php">著名非营利性的药物教育网站Erowid接受比特币捐款</a></li>
+</ul>
+
+
+<h2>世界第一台比特币ATM机投入使用</h2>
+
+<p>让人们用法币更容易换到比特币。大量的免费宣传效应。更多的ATM也即将投入使用并制造越来越多的新闻。</p>
+
+<ul>
+<li><a href="http://www.cbc.ca/player/News/TV+Shows/The+National/ID/2414758163/">CBC国家电视台报道</a></li>
+<li><a href="http://www.theglobeandmail.com/news/british-columbia/a-bitcoin-first-for-vancouver/article15130876/">环球邮报报道</a></li>
+<li><a href="http://www.thestar.com/business/2013/10/29/first_bitcoin_atm_opens_in_vancouver_coffee_shop.html">多伦多明星报报道</a></li>
+<li><a href="http://www.cbc.ca/news/technology/world-s-first-bitcoin-atm-opens-in-vancouver-1.2286877">CBC新闻报道</a></li>
+<li><a href="http://i.imgur.com/uGIZl1k.jpg">新闻进入雅虎首页</a></li>
+<li><a href="http://business.time.com/2013/10/30/worlds-first-bitcoin-atm-launched-in-canada/">时代周刊报道</a></li>
+<li><a href="http://uk.reuters.com/article/2013/10/29/uk-bitcoin-atm-idUKBRE99S1ED20131029">英国路透社报道</a></li>
+<li><a href="http://www.theguardian.com/technology/2013/oct/30/bitcoin-first-atm-vancouver-canada">英国卫报报道</a></li>
+<li><a href="http://www.dailymail.co.uk/sciencetech/article-2479994/Bitcoin-vending-machine-Robocoin-launched-Canadian-coffee-shop.html">英国每日邮报报道</a></li>
+<li><a href="http://www.wired.com/wiredenterprise/2013/10/bitcoin_atm_gallery/">美国连线报道</a></li>
+<li><a href="http://www.smh.com.au/it-pro/business-it/worlds-first-bitcoin-atm-opens-in-canada-20131030-hv28q.html">悉尼先驱晨报报道</a></li>
+<li><a href="http://economictimes.indiatimes.com/slideshows/investments-markets/bitcoin-digital-currency-gets-its-first-atm-in-canada/slideshow/24929189.cms">印度经济日报报道</a></li>
+<li><a href="http://business.financialpost.com/2013/10/28/bitcoin-atm-canada-this-week/?__lsa=69a4-1dd7">Financial Post报道</a></li>
+<li><a href="http://www.ibtimes.co.uk/articles/518212/20131030/bitcoin-vancouver-atm-robocoin-bitcoiniacs.htm">International Business Times报道</a></li>
+<li><a href="http://finance.yahoo.com/news/first-atm-offering-bitcoins-opens-in-vancouver-202352312.html">雅虎财经报道</a></li>
+<li><a href="http://v.youku.com/v_show/id_XNjI4NDgxMjA4.html">机器的使用教程视频</a></li>
 </ul>
 
 
@@ -87,7 +118,7 @@
 
 <ul>
 <li><a href="http://i.imgur.com/JF1DpNR.png">该贴一度在Reddit首页排名第一</a></li>
-<li><a href="http://redditmetrics.com/r/Bitcoin">Reddit的比特币栏目订阅量大增</a></li>
+<li><a href="http://redditmetrics.com/r/Bitcoin">该贴使Reddit的比特币栏目订阅量大增</a></li>
 <li><a href="http://i.imgur.com/xuGFApU.png">在英国卫报官网浏览量第一</a></li>
 <li><a href="http://www.google.com/hostednews/afp/article/ALeqM5iC1DbtimBXYp9Ugd19sQIqhzGzkQ?docId=0b26dbd5-ee58-4232-8051-97ab2a6eaad0">世界著名通讯社法国新闻社报道</a></li>
 <li><a href="http://www.bbc.co.uk/news/business-24738821">BBC报道</a></li>
@@ -105,26 +136,12 @@
 </ul>
 
 
-<h2>世界第一台比特币ATM机投入使用</h2>
-
-<p>让人们用法币更容易换到比特币。大量的免费宣传效应。更多的ATM也即将投入使用并制造越来越多的新闻。</p>
-
-<ul>
-<li><a href="http://www.cbc.ca/player/News/TV+Shows/The+National/ID/2414758163/">CBC国家电视台报道</a></li>
-<li><a href="http://www.theglobeandmail.com/news/british-columbia/a-bitcoin-first-for-vancouver/article15130876/">环球邮报报道</a></li>
-<li><a href="http://www.thestar.com/business/2013/10/29/first_bitcoin_atm_opens_in_vancouver_coffee_shop.html">多伦多明星报报道</a></li>
-<li><a href="http://www.cbc.ca/news/technology/world-s-first-bitcoin-atm-opens-in-vancouver-1.2286877">CBC新闻报道</a></li>
-<li><a href="http://i.imgur.com/uGIZl1k.jpg">新闻进入雅虎首页</a></li>
-<li><a href="http://youtu.be/PFqBtvLVRpY">机器的使用视频</a>（需翻墙）</li>
-</ul>
-
-
 <h2>机构资金进入</h2>
 
 <p>害怕价格到了200美元后资金入场速度很难比旷工卖的快？不要担心，有很多机构的资金都远远超过现阶段整个比特币系统估值。</p>
 
 <ul>
-<li><a href="https://www.secondmarket.com/company/bitcoin-investment-trust">SecondMarket推出美国首只比特币交异型基金</a></li>
+<li><a href="http://www.8btc.com/secondmarket">SecondMarket推出美国首只比特币交异型基金</a></li>
 <li><a href="http://www.ft.com/cms/s/0/5e972afe-3cce-11e3-a8c4-00144feab7de.html#axzz2jDmt4bpp">对冲基金经理开始推荐比特币</a>(Michael Novogratz)</li>
 <li><a href="http://techcrunch.com/2013/10/29/chamath-palihapitiya-owns-5-million-in-bitcoins-wants-to-own-10-15-million/">Facebook前执行董事拥有500万美金的比特币</a>(Chamath Palihapitiya)</li>
 <li><a href="http://thegenesisblock.com/a-bitcoin-etf-is-a-vital-step-towards-market-maturity/">温克莱沃斯兄弟向美国证监会提交了温克莱沃斯比特币信托基金</a></li>
@@ -139,11 +156,11 @@
 * <a href="http://www.reddit.com/r/bitcointip">在Reddit使用比特币给作者小费</a>
 * <a href="http://www.escapistmagazine.com/news/view/129141-eSports-Gambling-Site-Bets-with-Bitcoins">电子竞技游戏赌博网站</a></p>
 
-<h1>各国政府都明确说比特币不是非法的</h1>
+<h2>各国政府都明确说比特币不是非法的</h2>
 
-<p>越来越多的政府开始说比特币是合法的货币，或者为比特币交易发出指导方针使比特币符合反洗钱法律。
-* <a href="http://www.coindesk.com/belgiums-finance-minister-has-no-objection-to-bitcoin/">比利时财政部长表示比利时国家银行对比特币没有异议</a>
-* <a href="http://mybroadband.co.za/news/internet/84633-germany-recognises-bitcoin-as-currency.html">德国认可比特币为一种货币单位和私有财产</a>
+<p>越来越多的政府开始认可比特币，或者为比特币交易发出指导方针使比特币符合反洗钱法律。
+* <a href="http://www.8btc.com/belgiums-finance-minister-has-no-objection-to-bitcoin">比利时财政部长表示比利时国家银行对比特币没有异议</a>
+* <a href="http://www.8btc.com/?p=2814">德国认可比特币为一种货币单位和私有财产</a>
 * <a href="http://www.cbc.ca/news/business/revenue-canada-says-bitcoins-aren-t-tax-exempt-1.1395075">加拿大税务局的代表证实依照税制比特币征税将切实应用于某些交易</a>
 * <a href="http://www.8btc.com/fincen">美国财政部金融犯罪执法系统FinCEN发布了虚拟货币个人管理《条例》</a></p>
 
@@ -171,14 +188,27 @@
 
 <ul>
 <li><a href="http://sourceforge.net/projects/bitcoin/files/stats/map?dates=2013-04-23">中国超过美国成比特币客户端下载量最多国家</a></li>
+<li><a href="http://www.leiphone.com/s-bitcoin-comeback.html">壹基金接受比特币捐款</a></li>
+<li><a href="http://v.qq.com/cover/n/na41luopyo7kgaw.html?vid=j0013t93ux8&amp;__t=1&amp;ptag=1.sina&amp;_out=1">李连杰谈壹基金接受比特币捐款，视频第八分钟</a></li>
 <li><a href="http://finance.yahoo.com/news/chinas-google-now-accepting-bitcoin-182100345.html">百度加速乐开始接受比特币</a></li>
 <li><a href="http://www.igeak.com/">盛大旗下果壳网接受比特币支付</a></li>
-<li><a href="http://video.sina.com.cn/p/news/v/2013-10-28/193663075917.html">中央电视台连续多次报道比特币</a></li>
 <li><a href="http://www.businessinsider.com/china-and-bitcoin-2013-10">中国成为比特币价格攀升重要因素</a></li>
+<li><a href="http://jingji.cntv.cn/2013/05/03/VIDE1367596319388137.shtml">中央电视台连续多次报道比特币——央视2台20130503</a></li>
+<li><a href="http://video.sina.com.cn/p/news/v/2013-10-28/193663075917.html">中央电视台连续多次报道比特币——新闻联播播报</a></li>
+<li><a href="http://tv.cntv.cn/video/C11346/4f9f55eeca1e4e64b14592677107c512">中央电视台连续多次报道比特币——央视2台20131030|视频第8分钟开始</a></li>
 </ul>
 
 
-<h2>Silk Road 被关闭</h2>
+<h2>拉丁美洲</h2>
+
+<ul>
+<li><a href="http://buenosairesherald.com/article/140590/bitcoins-catching-on-in-latin-america">比特币开始在拉丁美洲流行</a></li>
+<li><a href="http://i.imgur.com/x9VGQhM.jpg">巴西比特币客户端下载量大增</a></li>
+<li><a href="http://blogs.wsj.com/moneybeat/2013/07/17/bitcoin-downloads-surge-in-argentina/">阿根廷比特币客户端下载量大增</a></li>
+</ul>
+
+
+<h2><a href="http://www.8btc.com/silkroad-bitcoin-up">Silk Road 被关闭</a></h2>
 
 <p>对信誉良好的企业来说这代表这比特币更好的合法性和更多的正面宣传。并且比特币黑市的需求并未消失(Sheep Market, and Black Market Reloaded to name two)，所以仍然会有来自黑市市场的购买压力。不过丝绸之路关闭的新闻对我们来说是极大的宣传。</p>
 
@@ -188,9 +218,13 @@
 
 <p>之后还有<a href="http://www.8btc.com/significant-merchant-improvements-planned-for-bitcoin-v0-9">对商家更友好的支付特性</a>加入到钱包中，并且还有新的基于比特币的智能资产架构<a href="http://8btc.com/article-223-1.html">彩色币</a>来临。</p>
 
-<p>原文：<a href="http://www.reddit.com/r/Bitcoin/comments/1pj7yq/why_i_believe_were_on_the_cusp_of_the_3rd_great/">http://www.reddit.com/r/Bitcoin/comments/1pj7yq/why_i_believe_were_on_the_cusp_of_the_3rd_great/</a></p>
+<p>原文:<a href="http://www.reddit.com/r/Bitcoin/comments/1pj7yq/why_i_believe_were_on_the_cusp_of_the_3rd_great/">http://www.reddit.com/r/Bitcoin/comments/1pj7yq/why_i_believe_were_on_the_cusp_of_the_3rd_great/</a></p>
 
-<p>初次翻译，欢迎吐槽</p>
+<p>作者：DTanner</p>
+
+<p>编译：serenenight</p>
+
+<p>欢迎转载，转载时请注明作者、翻译者和出处，谢谢支持！</p>
 ]]></content>
   </entry>
   
