@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Web | SereneNight's Blog]]></title>
+  <link href="http://serenenight.github.io/blog/categories/web/atom.xml" rel="self"/>
+  <link href="http://serenenight.github.io/"/>
+  <updated>2013-11-04T13:26:23+08:00</updated>
+  <id>http://serenenight.github.io/</id>
+  <author>
+    <name><![CDATA[Serenenight]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The Secret Web: Where Drugs, Porn and Murder Live Online]]></title>
+    <link href="http://serenenight.github.io/blog/2013/11/04/the-secret-web-where-drugs-porn-and-murder-live-online/"/>
+    <updated>2013-11-04T13:23:00+08:00</updated>
+    <id>http://serenenight.github.io/blog/2013/11/04/the-secret-web-where-drugs-porn-and-murder-live-online</id>
+    <content type="html"><![CDATA[<p>十年前，政府建立了一个完全私密匿名的网络，如今这里已是罪犯的天堂。</p>
+
+<p>2013年十月1日中午，一个身材高大修长，头发浓密的男子离开了他位于旧金山第15大道的房子。他每月支付1000美元的现金和另外两名室友合租，他们只知道他是一个安静的外汇交易员叫做Josh Terrey。而他的真名是Ross Ulbricht，今年29岁，没有犯罪记录。Ulbricht身穿红色T恤和牛仔裤，向旧金山公共图书馆的Glen公园分馆走去，在那里他登录笔记本电脑，用免费的Wi-Fi上演了他的科幻小说情节。几个FBI特工穿着便衣把他包围起来，把他推起来面对一个窗口，然后护送他走出了图书馆。</p>
+
+<p>FBI相信Ulbricht就是在网上化名为“恐怖海盗罗伯茨”的罪犯，其化名来自于名叫公主新娘的小说和电影。“恐怖海盗罗伯茨”是网站丝绸之路的所有者和管理人。丝绸之路是一家相当成果的网络市场，人们在那里买卖非法物品&mdash;主要是毒品，还有假证件、烟花、黑客软件等。他们之所以能这样做还不被逮住是因为丝绸之路建立在互联网中叫做Deep Web的一个少为人所知的角落。</p>
+
+<p>技术上，Deep Web是指像Google这样的搜索引擎没有或者不能索引的所有网站和数据库，从其庞大体积的信息上比我们所知的互联网要大许多倍。更宽泛的讲，Deep web是互联网上一个被其日益稀有的商品——完全匿名所区分的特定分支。在Deep Web上你所做的一切都不能被别人与你的真实身份联系起来，除非你选择公开。尽管连接Deep Web所需的软件是免费的并且只需花不到3分钟就能下载到并安装，但是大多数人都没有见过。如果网络中有一部分可以考虑被关闭，那就是Deep Web。</p>
+
+<p>Deep Web的存在有很多正当的原因。它对于情报人员、执法者、持不同政见者和越来越多的需要或者想要将他们的互联网上的信息私密化的人，以及我们每一个人是一个非常重要的工具。据 Pew Internet &amp; American Life Project在今年9月所公布的一项调查看，约有86%的互联网用户试图删除或隐藏过他们的电子记录，并且有55%的人尽力避免被特定的人群如他们的主顾或者政府注意到。</p>
+
+<p>但是Deep Web也是做非法事物的理想场所，尤其是当它与匿名的、几乎无法追踪的电子货币比特币结合起来时，例如丝绸之路。起诉Ulbricht的纽约南部地区地方检察官Preet Bharara 对TIME说到：“丝绸之路让各种犯罪分子可以公开的做那些往日他们只能在露天毒品市场或者某个从事不良活动的小巷中进行的事。”过去的2年半时间，丝绸之路扮演着一个像亚马逊一样的买卖非法物品的交易平台。根据联邦调查局对Ulbricht控诉的的39页内容，丝绸之路为世界各地将近100万客户提供了价值十二亿的禁品。据称“恐怖海盗罗伯茨”——Deep Web世界的Jeff Bezos，获得了差不多8000万美元的交易费用。</p>
+
+<p>多数使用Deep Web的人都不是罪犯。但是一些检察官和政府机构认为丝绸之路只是契子的薄壁，Deep Web是一个潜在的噩梦——一个对于小偷，儿童色情影像制贩者，人贩子，伪造者，刺客和贩卖国家秘密与泄露核资料人的天堂。FBI，DEA，ATF和NSA等部门花费了数百万美元试图研究如何破解它。但讽刺的是，是美国军方起初建立了Deep Web。</p>
+
+<h2>TOR DE FORCE</h2>
+
+<p>Deep Web是一个技术预言和其意想不到的结果。1996年五月，美国海军研究实验室的三位科学家在英国剑桥的一个工作室，提出了一篇名为“Hiding Routing Information”的文章。它</p>
+]]></content>
+  </entry>
+  
+</feed>
