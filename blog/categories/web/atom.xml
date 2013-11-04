@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Web | SereneNight's Blog]]></title>
   <link href="http://serenenight.github.io/blog/categories/web/atom.xml" rel="self"/>
   <link href="http://serenenight.github.io/"/>
-  <updated>2013-11-04T13:29:57+08:00</updated>
+  <updated>2013-11-04T20:37:49+08:00</updated>
   <id>http://serenenight.github.io/</id>
   <author>
     <name><![CDATA[Serenenight]]></name>
@@ -34,7 +34,11 @@
 
 <h2>TOR DE FORCE</h2>
 
-<p>Deep Web是一个技术预言和其意想不到的结果。1996年五月，美国海军研究实验室的三位科学家在英国剑桥的一个工作室，提出了一篇名为“Hiding Routing Information”的文章。它</p>
+<p><strong>Deep Web是一个技术预言和其意想不到的结果</strong>。1996年五月，美国海军研究实验室的三位科学家在英国剑桥的一个工作室，提出了一篇名为“Hiding Routing Information（隐藏路由信息）”的文章。这篇文章奠定了一个可以使用户访问互联网而不会在这个过程中给任何相交互的Web服务器或路由器泄露他们身份的系统的技术特性。他们把他们的想法称作“onion routing（洋葱路由）”，它之所以被称为onion，因为一层层的加密层包裹和掩盖着被来回传输的数据。2003年十月，这个想法在互联网上以开源项目的形式发布，名为Tor（它最初指代The Onion Router，？？？）。如果Deep Web是一个化妆舞会，则Tor提供了舞会服装。Tor是一个相当幽雅并且有效的创造，以至甚至于建造它的人也不知道怎么破坏掉它。</p>
+
+<p>在许多方面Tor更多的是回到早先的时代而非向前迈步（was less a step forward than a return to an earlier era）。在多数互联网历史上，一个用户的在线角色与他/她的真实身份相连甚少。互联网是一个人们可以用假名创造新的，更自由的的自我的地方。20世纪90年代的大部分时间，互联网向人们承诺了一个在网上的第二生命。但是随着时间的推移，尤其是Facebook的到来，我们的线上生命已经被紧紧的与我们线下生活绑在了一起，包括我们的真实身份。现在我们走到何处，我们都辐射着我们的个人信息——我们的浏览历史、购物详情、视频的口味、社会关系、常常还甚至有我们的物理位置。但在Deep Web中，这一切不会发生。</p>
+
+<p>为什么美国政府会资助建立这样一个系统呢？有很多的原因。例如警方可以利用它在网上征求匿名举报，安排秘密行动，探索非法网站而不使其站长警觉。军方和情报机构可以用他隐蔽通信。国务院可以培养让外国的持不同政见者使用它。Tor现在被一个总部设在马萨诸塞州剑桥市的非营利性组织所管理，被多个组织所赞助，包括谷歌和Knight基金会。但是直到最近2011年，其60%的资金仍来自美国政府。</p>
 ]]></content>
   </entry>
   
