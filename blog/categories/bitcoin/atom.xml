@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Bitcoin | SereneNight's Blog]]></title>
   <link href="http://serenenight.github.io/blog/categories/bitcoin/atom.xml" rel="self"/>
   <link href="http://serenenight.github.io/"/>
-  <updated>2013-11-10T18:47:26+08:00</updated>
+  <updated>2013-11-11T03:57:21+08:00</updated>
   <id>http://serenenight.github.io/</id>
   <author>
     <name><![CDATA[Serenenight]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[比特币在美国参议院]]></title>
+    <link href="http://serenenight.github.io/blog/2013/11/11/bitcoin-at-the-us-senate/"/>
+    <updated>2013-11-11T03:32:00+08:00</updated>
+    <id>http://serenenight.github.io/blog/2013/11/11/bitcoin-at-the-us-senate</id>
+    <content type="html"><![CDATA[<p>一个多礼拜之后，11月18日，比特币社区的成员将会在美国参议院面前经受两场听证会的考验：</p>
+
+<ol>
+<li>参议院国土安全及政府事物（(HSGAC)）委员会</li>
+<li>参议员银行委员会</li>
+</ol>
+
+
+<p>召开听证会，这样美国议员就能够了解比特币，尤其是其对执法机关和银行业的影响。HSGAC听证会将有两个座谈组。第一个由美国执法机构代表组成，第二个是工业界座谈组，比特币基金会的Patrick Murck会在其中。</p>
+
+<p>对于那些不知道Patrick的人，他是一个非常“比特币的律师”，也是我们其中的一员——他已经参与比特币相关的幕后工作很长一段时间，我经常与他进行交流并且我知道他会非常出色的完成工作。Patrick不是我们的第一选择。事实上参议院邀请的是Jon Matonis，他也是我们的第一选择。但不幸的是因为通知的时间太紧，Jon不能前往参加。Gavin曾是我们的第二选择，但是他现在在澳大利亚看望亲人所以也不能参加。</p>
+
+<p>参议员对其他小组成员的选择，我想也是对我们的好消息——他们都是对比特币有深刻理解的人，拥有很好的信誉和成就。可惜的是，因为某些原因我觉得在这里透露他们的名字很失礼所以不会公布，不过你们很快就能知道他们是谁。</p>
+
+<p>筹备工作已经开始，基金会的工作人员正在做一些书面的材料，这些材料将在听证会一并提交。Patrick将会很快前往华盛顿以便开始排练和准备。作为执行董事，Jon在其他成员帮助下也一定会对我们想清楚要说些什么有所帮助。如果你想提些建议或者做些贡献，请加入基金会并到论坛发帖。</p>
+
+<p>最近我偶尔会遇见有人质疑基金会的目的是什么。这次听证会就是基金会建立的一个原因。世界上有很多强大的有人运作的机构，并且它们根本就没有或者不会参与像bitcointalk这样的论坛，邮件列表等。他们运作的方式是通过召开会议和像这次的听证会。基金会不仅资助发展还会作为这两个完全不同世界之间的桥梁。</p>
+
+<p>谢谢,</p>
+
+<p>Mike Hearn
+法律与政策指导委员会主席
+比特币基金会</p>
+
+<p>原文：<a href="https://bitcointalk.org/index.php?topic=329932.0">https://bitcointalk.org/index.php?topic=329932.0</a></p>
+
+<p>作者：Mike Hearn</p>
+
+<p>编译：serenenight</p>
+
+<p>本文如有帮助，请考虑捐助：1NY4CqSFVKihxmGGqrXaF45okjRwaEqtLq</p>
+
+<p>欢迎转载，转载时请注明作者、翻译者和出处，谢谢支持</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[比特币基础：如何分析行情大盘]]></title>
@@ -78,7 +119,7 @@
 
 <h2>这都意味着什么？</h2>
 
-<p>我已经告诉你了从这些图表中提取数据的工具，但是你如何利用这些数据来在比特币世界做出交易决定呢？不幸的的是这是一个相当困难的问题。对一张不同的深度图的含义有很多的揣测。一个论坛有超过1200页的帖子关于什么是买墙，例如这张图里的101位置。你必须靠自己做一堆研究，不过这个关于股票图表模型的介绍应该是个不错的开始。</p>
+<p>我已经告诉你了从这些图表中提取数据的工具，但是你如何利用这些数据来在比特币世界做出交易决定呢？不幸的的是这是一个相当困难的问题。对一张不同的深度图的含义有很多的揣测。一个论坛有超过1200页的帖子讨论关于什么是买墙，例如这张图里的101位置。你必须靠自己做一堆研究，不过这个关于股票图表模型的介绍应该是个不错的开始。</p>
 
 <blockquote><p>译者：这里推荐一下暴走恭亲王在巴比特推出的<a href="http://8btc.com/forum.php?mod=viewthread&amp;tid=953&amp;fromuid=799">每日行情分析</a>，相信对不少人会有所帮助。</p>
 
@@ -89,8 +130,6 @@
 <p>作者：Ross Robinson</p>
 
 <p>编译：serenenight</p>
-
-<p>本文如有帮助，请考虑捐助：1NY4CqSFVKihxmGGqrXaF45okjRwaEqtLq</p>
 
 <p>欢迎转载，转载时请注明作者、翻译者和出处，谢谢支持</p>
 ]]></content>
